@@ -25,7 +25,7 @@ RUN chmod +x ./bin/query-service
 
 
 # use a minimal alpine image
-FROM alpine:3.7
+FROM alpine:3.19.3
 
 # Add Maintainer Info
 LABEL maintainer="signoz"
