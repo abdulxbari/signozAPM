@@ -64,7 +64,7 @@
 		"mini-css-extract-plugin": "2.4.5",
 		"react": "17.0.0",
 		"react-dom": "17.0.0",
-		"react-force-graph": "^1.41.0",
+		"react-force-graph": "^1.47.0",
 		"react-graph-vis": "^1.0.5",
 		"react-grid-layout": "^1.2.5",
 		"react-i18next": "^11.16.1",
